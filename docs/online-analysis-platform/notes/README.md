@@ -2,6 +2,11 @@
 
 这里用来记录你学习过的在线分析平台。
 
+## 示例笔记
+
+你可以先查看示例文件：
+- [example-platform-note.md](example-platform-note.md)
+
 ## 推荐模板
 
 ### 平台名称
