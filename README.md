@@ -1,6 +1,6 @@
 # 学习记录仓库
 
-这是一个用来记录你学习内容的 GitHub 项目，适合整理：
+这是一个适合长期记录学习内容的 GitHub 仓库，适合整理：
 
 - 在线分析平台的使用方法
 - 数据库的使用方法
@@ -8,9 +8,18 @@
 
 ## 目录结构
 
-- docs/online-analysis-platform/：在线分析平台学习记录
-- docs/database/：数据库使用方法学习记录
+- docs/online-analysis-platform/：在线分析平台相关笔记
+- docs/online-analysis-platform/notes/：平台笔记模板和单篇记录
+- docs/database/：数据库相关笔记
+- docs/database/notes/：数据库笔记模板和单篇记录
+- docs/learning-template.md：通用学习笔记模板
 
 ## 适合怎么使用
 
-每次学习完一个平台或数据库后，直接在对应目录下新增或修改记录文件即可。
+每次学习完一个内容后，可以直接：
+
+1. 复制通用模板
+2. 在对应目录下新建一篇笔记
+3. 把学习内容、实操过程和总结写进去
+
+这样以后回看时会更清晰。
